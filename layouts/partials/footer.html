@@ -7,3 +7,8 @@
   {{ "Cheers, Rob (@robhope)" | safeHTML }}
   {{ "-->" | safeHTML }}
 </div>
+
+<!-- javascript -->
+{{ if .Site.Params.custom.js.enable }}
+<script type="text/javascript" src="{{ "js/custom.js" | absURL }}"></script>
+{{ end }}
