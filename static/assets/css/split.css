@@ -227,9 +227,9 @@ body.page-template-page-fullsingle-split p {
   border-bottom: 1px dotted #d2e2f1;
 }
 .split-bio a:hover {
-  color: #CA486d;
+  color: #fc86a7;
   transition-duration: 0.1s;
-  border-bottom: 1px dotted #CA486d;
+  border-bottom: 1px dotted #fc86a7;
 }
 .split-bio em,
 .split-bio i {
@@ -360,7 +360,7 @@ body.page-template-page-fullsingle-split p {
   transition-duration: 0.5s;
 }
 .split-lists .split-list ul li a:hover {
-  color: #CA486d;
+  color: #fc86a7;
   transition-duration: 0.1s;
 }
 
